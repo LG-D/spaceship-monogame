@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/LGashiFinalProject/FinalProjectTemplate/FinalProjectShell/Content/MusicAndSounds/star.wav</SourceFile>
+  <SourceTime>2019-10-31T12:49:11.9657371-04:00</SourceTime>
+  <DestFile>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/LGashiFinalProject/FinalProjectTemplate/FinalProjectShell/Content/bin/Windows/Content/MusicAndSounds/star.xnb</DestFile>
+  <DestTime>2019-12-08T15:58:07.2495575-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

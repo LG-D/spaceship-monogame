@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Fonts/scoreFont.spritefont</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Fonts/text.spritefont</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/AboutScene/aboutPage1.png</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/asteroid.png</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/explosion.png</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/galaxy.jpg</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/gameEnd.png</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/HelpScene/helpPage.png</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/rocketship.png</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/space.jpg</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/StarAnimation/11.png</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/Images/StarAnimation/22.png</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/MusicAndSounds/BravePilots.ogg</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/MusicAndSounds/Explosion.mp3</File>
+    <File>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/Spaceship_FinalGame/FinalProjectTemplate/FinalProjectShell/Content/MusicAndSounds/star.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

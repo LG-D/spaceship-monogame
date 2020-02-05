@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/LGashi_Milestone2/FinalProjectTemplate/FinalProjectShell/Content/MusicAndSounds/Brave Pilots (Menu Screen).ogg</SourceFile>
+  <SourceTime>2019-12-01T16:07:05.5289832-05:00</SourceTime>
+  <DestFile>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/LGashi_Milestone2/FinalProjectTemplate/FinalProjectShell/Content/bin/Windows/Content/MusicAndSounds/Brave Pilots (Menu Screen).xnb</DestFile>
+  <DestTime>2019-12-01T16:15:49.7955647-05:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/denis/Desktop/Conestoga/Game Programming Data Structures/LGashi_Milestone2/FinalProjectTemplate/FinalProjectShell/Content/bin/Windows/Content/MusicAndSounds/Brave Pilots (Menu Screen).wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
